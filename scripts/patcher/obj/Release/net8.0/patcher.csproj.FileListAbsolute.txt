@@ -1,0 +1,4 @@
+C:\Users\Jblokstra\Documents\GitHub\btales-fna\scripts\patcher\obj\Release\net8.0\patcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jblokstra\Documents\GitHub\btales-fna\scripts\patcher\obj\Release\net8.0\patcher.AssemblyInfoInputs.cache
+C:\Users\Jblokstra\Documents\GitHub\btales-fna\scripts\patcher\obj\Release\net8.0\patcher.AssemblyInfo.cs
+C:\Users\Jblokstra\Documents\GitHub\btales-fna\scripts\patcher\obj\Release\net8.0\patcher.csproj.CoreCompileInputs.cache

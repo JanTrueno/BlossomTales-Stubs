@@ -1,0 +1,19 @@
+# Built outputs
+*.dll
+*.exe
+*.so
+*.so.0
+*.zip
+*.deb
+*.nupkg
+
+# Game content (do not commit)
+Content/
+Maps/
+Blossom Tales.exe
+Blossom Tales.orig.exe
+Blossom Tales.pdb
+
+# Python
+__pycache__/
+*.pyc
